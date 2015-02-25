@@ -1,6 +1,6 @@
 ## Synopsis
 
-Snippets to solve Project [Euler problems](https://projecteuler.net/)
+Snippets to solve [Project Euler](https://projecteuler.net/) problems
 
 ## Motivation
 
@@ -8,7 +8,7 @@ A good way to learn GO
 
 ## Installation
 
-Just install go from <https://golang.org/dl/> and run example
+Just install go from <https://golang.org/dl/> and run examples
 
 ## Contributors
 
