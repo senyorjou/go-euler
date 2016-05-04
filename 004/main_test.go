@@ -23,7 +23,6 @@ func Test_checkPalin(t *testing.T) {
 
 	if want != got {
 		t.Errorf("checkPalin(%d, %d) == %v, want %v", num1, num2, got, want)
-
 	}
 
 }
