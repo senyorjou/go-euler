@@ -1,3 +1,4 @@
+// Solution to problem 3: https://projecteuler.net/problem=3
 package main
 
 import (

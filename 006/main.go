@@ -1,3 +1,6 @@
+// Solution to problem 6: https://projecteuler.net/problem=6
+//
+
 package main
 
 import (
